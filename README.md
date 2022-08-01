@@ -23,7 +23,7 @@ The defining property of chaotic systems is **approximate initial conditions can
 The popular notion of the butterfy effect (the flap of a butterfly's wing affecting a tornado weeks later) is a metaphorical version of this phenomenon of sensitive dependence on initial conditions. The shape of the solutions also resmble a butterfly to the romanticization's merit.
 
 <p>
-  <img align="center" src="Lorenz_Attractor_Compressed.png" alt="" width="300px">
+  <img align="center" src="Lorenz_Attractor_Compressed.png" alt="" width="500px">
 </p>
 
 
