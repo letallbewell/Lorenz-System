@@ -39,7 +39,9 @@ The program uses the **RK45** algorithm to integrate the system of equations, th
 
 A particle cloud of $N = 1000$, points starting about $[1, 1, 1]$ is integrated this way. You can see how quickly these particles (red dots) diverge from the solution for the strating point $[1, 1, 1]$ (golden curve).
 
-[Chaos in the Lorenz system](Lorenz_Attractor_Chaos_Movie (with attractor curve).mp4) 
 
-![Chaos in the Lorenz system](Lorenz_Attractor_Chaos_Movie (with attractor curve).mp4)
+
+https://user-images.githubusercontent.com/43025445/182188478-5b147908-779f-4cc1-a89a-fd367d58d799.mp4
+
+
 
