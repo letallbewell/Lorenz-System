@@ -33,7 +33,7 @@ The above is the solution for the system for the initial condition $[1, 1, 1]$.
 
 # Simulation
 
-**Note:** [ffmpeg](https://github.com/kkroening/ffmpeg-python) might be required to generate the moviw apart from the [requirements.txt](requirements.txt)
+**Note:** [ffmpeg](https://github.com/kkroening/ffmpeg-python) might be required to generate the movie apart from the [requirements.txt](requirements.txt)
 
 The program uses the **RK45** algorithm to integrate the system of equations, the adaptive time steps of the algorithm comes handy in dealing with chaotic systems: the integrator adjusts the time step to keep the error in each step under the specified threshold. We later interpolate the solutions to cast the trajectories onto a linearly spaced time grid.
 
