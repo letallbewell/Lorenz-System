@@ -1,6 +1,6 @@
 # Lorenz-System
 
-Illustration of the onset of chaos in the Lorez system of differential equations.
+Illustration of the onset of chaos in the Lorenz system of differential equations.
 
 # Theory
 
